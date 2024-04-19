@@ -1,0 +1,14 @@
+body{
+	font-family: 'Satoshi', sans-serif;
+	background-color: rgb(136, 136, 136);
+	width: 100%;
+	height: max-content;
+}
+
+input {
+	background-color: aliceblue;
+	outline: 0;
+	border-radius: 2em;
+
+}
+

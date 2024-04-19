@@ -1,0 +1,30 @@
+.card {
+    background-color:rgb(255, 255, 255);
+    padding: 2%;
+    height: min-content;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+
+button {
+    background-color: green;
+    color: aliceblue;
+    outline: 0;
+    padding: 0.5%;
+}
+
+
+.none {
+    display: none;
+}
+
+.display{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: min-content;
+    top: 50%;
+    left: 50%;
+    background-color: green;
+    padding: 2%;
+}

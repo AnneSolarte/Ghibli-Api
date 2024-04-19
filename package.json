@@ -1,0 +1,23 @@
+{
+	"name": "lab-4",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "serve",
+		"build": "webpack --watch --mode=production"
+	},
+	"author": "CRIS M.",
+	"license": "ISC",
+	"devDependencies": {
+		"serve": "^14.2.1",
+		"style-loader": "^3.3.4",
+		"ts-loader": "^9.5.1",
+		"typescript": "^5.4.2",
+		"webpack": "^5.90.3",
+		"webpack-cli": "^5.1.4"
+	},
+	"dependencies": {
+		"css-loader": "^6.10.0"
+	}
+}
